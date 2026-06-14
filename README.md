@@ -7,7 +7,6 @@
 All projects have been tested.
 
 - Course link: [https://sites.cs.ucsb.edu/~lingqi/teaching/games101.html](https://sites.cs.ucsb.edu/~lingqi/teaching/games101.html)
-- My notes: [[https://remoooo.com/cg_set.html](https://docs.remoooo.com/cg01)]([https://remoooo.com/cg_set.html](https://docs.remoooo.com/cg01))
 - Notes Src: [https://github.com/Remyuu/GAMES101-Notes](https://github.com/Remyuu/GAMES101-Notes)
 
 ## List
