@@ -58,3 +58,4 @@ This repository contains all the assignments from the GAMES101 course, including
 ### Assignment.8
 
 <img width="500" alt="image" src="https://github.com/Remyuu/GAMES101-Homework/assets/64857501/9391daef-06ba-4b3a-bb50-27dcc962f331">
+My first GitHub practice.
